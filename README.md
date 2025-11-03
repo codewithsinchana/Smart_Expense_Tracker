@@ -81,5 +81,4 @@ Real-World Relevance:
  This project simulates personal finance tracking — similar to apps like Walnut or Money Manager — but built using pure core Java.
 
 Author:
-
   Sinchana T R (@codewithsinchana)
