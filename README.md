@@ -21,35 +21,56 @@ This project uses **Object-Oriented Programming**, **Collections (Map, List)**, 
 -  run:java Smartracker
 
 -  OUTPUT
+-  
  Welcome to Smart Expense Tracker
 1️⃣ Add Expense
+
 2️⃣ View All Expenses
+
 3️⃣ View Total By Category
+
 4️⃣ Exit
+
 Enter choice: 1
+
 Enter category: Food
+
 Enter amount: 250
+
 Enter description: Lunch with friends
+
 Expense added successfully!
 
 Enter choice: 1
+
 Enter category: Travel
+
 Enter amount: 120
+
 Enter description: Auto fare
+
 Expense added successfully!
 
 Enter choice: 2
+
 --- All Expenses ---
+
 Category: Food | Amount: ₹250.0 | Description: Lunch with friends
+
 Category: Travel | Amount: ₹120.0 | Description: Auto fare
 
 Enter choice: 3
+
 --- Total by Category ---
+
 Food : ₹250.0
+
 Travel : ₹120.0
 
 Real-World Relevance:
-This project simulates personal finance tracking — similar to apps like Walnut or Money Manager — but built using pure core Java.
 
-Author
-Sinchana T R (@codewithsinchana)
+    This project simulates personal finance tracking — similar to apps like Walnut or Money Manager — but built using pure core Java.
+
+Author:
+
+  Sinchana T R (@codewithsinchana)
