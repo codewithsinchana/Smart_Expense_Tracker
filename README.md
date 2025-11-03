@@ -23,6 +23,7 @@ This project uses **Object-Oriented Programming**, **Collections (Map, List)**, 
 -  OUTPUT
 -  
  Welcome to Smart Expense Tracker
+
 1️⃣ Add Expense
 
 2️⃣ View All Expenses
@@ -30,6 +31,8 @@ This project uses **Object-Oriented Programming**, **Collections (Map, List)**, 
 3️⃣ View Total By Category
 
 4️⃣ Exit
+
+---------------------------------------------------------------
 
 Enter choice: 1
 
@@ -41,6 +44,8 @@ Enter description: Lunch with friends
 
 Expense added successfully!
 
+-----------------------------------------------------------------
+
 Enter choice: 1
 
 Enter category: Travel
@@ -51,6 +56,7 @@ Enter description: Auto fare
 
 Expense added successfully!
 
+-------------------------------------------------------------------
 Enter choice: 2
 
 --- All Expenses ---
@@ -59,6 +65,8 @@ Category: Food | Amount: ₹250.0 | Description: Lunch with friends
 
 Category: Travel | Amount: ₹120.0 | Description: Auto fare
 
+---------------------------------------------------------------------
+
 Enter choice: 3
 
 --- Total by Category ---
@@ -66,6 +74,8 @@ Enter choice: 3
 Food : ₹250.0
 
 Travel : ₹120.0
+
+----------------------------------------------------------------------
 
 Real-World Relevance:
 
